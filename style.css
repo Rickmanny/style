@@ -6094,7 +6094,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #FFD333 !important;
+  background-color: #FFFFFF !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6104,7 +6104,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #F5F5F5 !important;
+  background-color: #FFFFFF !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -6114,17 +6114,17 @@ button.bg-secondary:focus {
 }
 
 .bg-success {
-  background-color: #28a745 !important;
+  background-color: #FFFFFF !important;
 }
 
 a.bg-success:hover, a.bg-success:focus,
 button.bg-success:hover,
 button.bg-success:focus {
-  background-color: #1e7e34 !important;
+  background-color: #FFFFFF !important;
 }
 
 .bg-info {
-  background-color: #17a2b8 !important;
+  background-color: #FFFFFF !important;
 }
 
 a.bg-info:hover, a.bg-info:focus,
